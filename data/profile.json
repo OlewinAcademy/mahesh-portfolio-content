@@ -1,0 +1,74 @@
+{
+  "name": "Bandaru Mahesh",
+  "title": "Founder | Olewin Group | Olewin-AI | Olewin Tech Solutions | Olewin | Xenolith AI | Olewin Academy",
+  "about": "Tech entrepreneur, AI researcher, geoscience innovator, building next-gen quantum & AI-powered platforms.",
+  "profile_image": "https://raw.githubusercontent.com/<USERNAME>/mahesh-portfolio-content/main/assets/profile.jpg",
+
+  "sections": [
+    {
+      "type": "banner",
+      "image": "https://raw.githubusercontent.com/<USERNAME>/mahesh-portfolio-content/main/assets/banner1.jpg",
+      "title": "Welcome to My Official Portfolio",
+      "subtitle": "AI • Quantum • Space Tech • Geoscience"
+    },
+    {
+      "type": "services",
+      "title": "Company Services",
+      "items": [
+        {
+          "name": "GeoIntelli-Q",
+          "description": "Hybrid Quantum + AI software for subsurface imaging, seismic processing and exploration.",
+          "icon": "science"
+        },
+        {
+          "name": "Olewin Academy",
+          "description": "EdTech platform — IIT-JEE, NEET, GATE, IIT JAM, AI & Quantum Computing",
+          "icon": "school"
+        },
+        {
+          "name": "Olewin Tech Solutions ",
+          "description": "Software R&D, AI Products, Enterprise Solutions",
+          "icon": "work"
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Educational Background",
+      "data": [
+        {
+          "degree": "IMSc (Geology & Geophysics)",
+          "institute": "Central University of Karnataka",
+          "year": "2019"
+        },
+        {
+          "degree": "IPhD (MSc) (Exploration Geophysics)",
+          "institute": "IIT Kharagpur",
+          "year": "2021"
+        }
+      ]
+    },
+    {
+      "type": "projects",
+      "title": "Operation System",
+      "data": [
+        {
+          "title": "GeoIntelli-Q Software Suite",
+          "description": "Advanced geophysical interpretation AI powered by quantum ML models.",
+          "link": "https://github.com"
+        },
+        {
+          "title": "Centralized OTP Authenticator",
+          "description": "Multi–app OTP center with Redis, deep linking, biometric lock.",
+          "link": "https://github.com"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "phone": "+91 8639449423",
+      "email": "bandarumahesh@olewingroup.com",
+      "whatsapp": "+91 8897099743"
+    }
+  ]
+}
