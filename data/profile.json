@@ -2,12 +2,12 @@
   "name": "Bandaru Mahesh",
   "title": "Founder | Olewin Group | Olewin-AI | Olewin Tech Solutions | Olewin | Xenolith AI | Olewin Academy",
   "about": "Tech entrepreneur, AI researcher, geoscience innovator, building next-gen quantum & AI-powered platforms.",
-  "profile_image": "https://raw.githubusercontent.com/<USERNAME>/mahesh-portfolio-content/main/assets/profile.jpg",
+  "profile_image": "https://raw.githubusercontent.com/<USERNAME>/mahesh-portfolio-content/main/assets/mahesh.png",
 
   "sections": [
     {
       "type": "banner",
-      "image": "https://raw.githubusercontent.com/<USERNAME>/mahesh-portfolio-content/main/assets/banner1.jpg",
+      "image": "https://raw.githubusercontent.com/<USERNAME>/mahesh-portfolio-content/main/assets/olewinlogo.png",
       "title": "Welcome to My Official Portfolio",
       "subtitle": "AI • Quantum • Space Tech • Geoscience"
     },
